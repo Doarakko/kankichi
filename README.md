@@ -1,6 +1,6 @@
 # kankichi
 
-Notify Slack when sweets arrive!
+Detect changes in the number of objects and notify Slack when sweets arrive in the pantry.
 
 ![example](./example.png)
 
